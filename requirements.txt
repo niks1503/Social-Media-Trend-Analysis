@@ -1,0 +1,16 @@
+# Social Media Trend Analysis – dependencies
+# Compatible with Python 3.11+
+
+# NLP
+textblob>=0.18.0
+
+# Spark / PySpark (match your Databricks / local runtime version)
+pyspark>=3.5.0
+
+# Numeric / scientific
+numpy>=1.26.0
+
+# Visualisation (optional, for local notebook exploration)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+wordcloud>=1.9.3
